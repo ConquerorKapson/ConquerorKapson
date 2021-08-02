@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ConquerorKapson
-- 👀 I’m interested in Web Development and App Development 
+- 👀 I’m interested in Web Development, App Development, Cyber Security, Machine Leraning and AI
 - 🌱 I’m currently learning Competitive Programming and Machine Learning
 - 💞️ I’m looking to collaborate on ongoing web development
 - 📫 How to reach me: swaranshu0810kapoor@gmail.com
